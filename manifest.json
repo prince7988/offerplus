@@ -1,0 +1,15 @@
+{
+  "background_color": "transparent",
+  "description": "Offer Plus app",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/--SOZOvMu008/YGf-MhdJi2I/AAAAAAAAAiA/0Hn7DMPrU4U0eFqg3ja-CK8wjlrqMN-QQCLcBGAsYHQ/s192/offer-plus-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Offer Plus",
+  "short_name": "Offer Plus",
+  "start_url": "https://offerspuls.blogspot.com"
+}
